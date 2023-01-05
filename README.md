@@ -1,5 +1,11 @@
-<center> <h1>HBNB - The Console</h1> </center>
+<center> <h1>alx SQL project</h1> </center>
 
+his assignment was done to complete an alx sql assignment and was updated by 
+
+[Dorah Rotich](https://github.com/DorahRotich)
+[Abel Misiocha](https://github.com/Codedwells)
+
+<center> <h3>project instructions</h3> </center>
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
 ---
