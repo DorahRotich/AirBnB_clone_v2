@@ -1,6 +1,6 @@
 <center> <h1>alx SQL project</h1> </center>
 
-his assignment was done to complete an alx sql assignment and was updated by 
+This assignment was done to complete an alx sql assignment by: 
 
 [Dorah Rotich](https://github.com/DorahRotich) and 
 [Abel Misiocha](https://github.com/Codedwells)
