@@ -2,7 +2,7 @@
 
 his assignment was done to complete an alx sql assignment and was updated by 
 
-[Dorah Rotich](https://github.com/DorahRotich)
+[Dorah Rotich](https://github.com/DorahRotich) and 
 [Abel Misiocha](https://github.com/Codedwells)
 
 <center> <h3>project instructions</h3> </center>
